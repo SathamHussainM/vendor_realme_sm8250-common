@@ -101,7 +101,7 @@ android_app_import {
 }
 
 android_app_import {
-        name: "HotwordEnrollmentOKGoogleHEXAGON",
+	name: "HotwordEnrollmentOKGoogleHEXAGON",
 	owner: "realme",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON.apk",
 	certificate: "platform",
@@ -113,7 +113,7 @@ android_app_import {
 }
 
 android_app_import {
-        name: "HotwordEnrollmentXGoogleHEXAGON",
+	name: "HotwordEnrollmentXGoogleHEXAGON",
 	owner: "realme",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk",
 	certificate: "platform",
